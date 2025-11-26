@@ -61,7 +61,7 @@ I bring a risk-oriented mindset to cybersecurity, grounded in my background in T
 ### **📁 Repositories**
 | Repository | Description |
 |-----------|-------------|
-| 🔍 **Threat-Hunting-Lab** | Documented hunts, KQL, findings & evidence |
+| 🔍 [**Threat-Hunting-Lab**](https://github.com/ErlinMendez/Threat-Hunting-Lab) | Documented hunts, KQL, findings & evidence |
 
 ---
 
