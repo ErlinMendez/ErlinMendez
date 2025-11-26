@@ -53,7 +53,7 @@ I bring a risk-oriented mindset to cybersecurity, grounded in my background in T
 - Process analysis  
 
 ### **Tools**
-`Wireshark` · `Sysinternals` · `Splunk` · `Python` · `PowerShell`  
+`Tenable` · `Sentinel` · `Python` · `PowerShell`  
 `Git/GitHub` · `Linux basics` · `SCRUM`
 
 ---
