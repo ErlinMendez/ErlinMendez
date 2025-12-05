@@ -24,8 +24,8 @@ I bring a risk-oriented mindset to cybersecurity, grounded in my background in T
 ### **📁 Repositories**
 | Repository | Description |
 |-----------|-------------|
-| ⚠️ [**Vulnerability Management Projects**](https://github.com/ErlinMendez/Threat-Hunting-Lab) | Documented hunts, xxxxxxx |
-| 🚨 [**Threat Hunting and Security Operations**](https://github.com/ErlinMendez/Threat-Hunting-Lab) | Documented hunts, KQL, findings & evidence |
+| ⚠️ [**Vulnerability Management Projects**](...) | Documented hunts, xxxxxxx |
+| 🚨 [**Threat Hunting and Security Operations**](https://github.com/ErlinMendez/Threat-Hunting-and-Security-Operations) | Documented hunts, KQL, findings & evidence |
 
 ---
 
